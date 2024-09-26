@@ -1,3 +1,3 @@
-import { maxProfit } from "./best-time-to-buy-sell-stock";
+import { merge } from "./merge-sorted-array";
 
-console.log(maxProfit([7, 6, 4, 3, 1]));
+merge([], 0, [1], 1);
